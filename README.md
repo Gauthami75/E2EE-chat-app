@@ -1,5 +1,6 @@
 # E2EE-Chat-Application
-## Live Preview [Link For Application](https://e2ee-chat-client.herokuapp.com/)
+## Live Preview [Link For Application - Client](https://e2ee-chat-client.herokuapp.com/) 
+## [Link For Application - Server](https://web-chat-e2ee.herokuapp.com/) deployed on Heroku
 
 ### If this link takes too long to load try opening this few more time because in Heroku:
 1. If your application is unused for a while it gets unloaded (from the server memory).
