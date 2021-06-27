@@ -12,4 +12,4 @@ If your app has a lot of continous traffic it will never be unloaded.
 stackoverflow link for more https://stackoverflow.com/questions/2606190/why-are-my-basic-heroku-apps-taking-two-seconds-to-load
 
 
-### End to End Encryped chat application using Elliptic Curve Dephie Hellman (ECDH) for sharing secret keys and used AES-256 GCH for message data encyption. Used React js in frontend and Node js and Express in Backend.
+### End to End Encryped chat application using Elliptic Curve Dephie Hellman (ECDH) for sharing secret keys and used AES-256 GCM for message data encyption. Used React js in frontend and Node js and Express in Backend.
