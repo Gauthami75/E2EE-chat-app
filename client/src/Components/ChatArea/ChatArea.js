@@ -111,7 +111,7 @@ export default function ChatArea({ecdh, friendOnline}) {
     return (
         <div className="chat_area">
             <div id="chat_navbar">
-            <a href="https://github.com/Saumya1503"><button id="chat_leave_chat">LEAVE CHAT</button></a>
+            <a href=""><button id="chat_leave_chat">LEAVE CHAT</button></a>
                 <button id="change_text" title="See Encryped and Decrypted Messages" onClick={toogleEncrypted}>{buttonText}</button>
             </div>
             <div id="message_box">
